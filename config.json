@@ -10,6 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
+	"presets" : {"url": "https://epembelajaran.umt.edu.my/oceania", "username": ""},
     "siteurl": "https://epembelajaran.umt.edu.my/oceania",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
