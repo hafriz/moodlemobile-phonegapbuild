@@ -578,7 +578,7 @@
     "mm.login.missinglastname": "Missing surname",
     "mm.login.mobileservicesnotenabled": "Mobile Services are not enabled in your site. Please, contact your Moodle site administrator if you think mobile access should be enabled.",
     "mm.login.newaccount": "New account",
-    "mm.login.newsitedescription": "Please enter url for any platform you would like to connect: <p>Oceania : https://epembelajaran.umt.edu.my/oceania </p><p>Oasis : https://epembelajaran.umt.edu.my/oasis </p><p>Wadi : https://epembelajaran.umt.edu.my/wadi </p>",
+    "mm.login.newsitedescription": "Please enter url for any platform you would like to connect - Oceania : https://epembelajaran.umt.edu.my/oceania, Oasis : https://epembelajaran.umt.edu.my/oasis, Wadi : https://epembelajaran.umt.edu.my/wadi",
     "mm.login.notloggedin": "You need to be logged in.",
     "mm.login.password": "Password",
     "mm.login.passwordrequired": "Password required",
