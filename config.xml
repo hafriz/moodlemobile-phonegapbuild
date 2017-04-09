@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.lentera.lenteramobile"
-        versionCode = "20170"
+        versionCode = "20171"
         version   = "3.2.2">
     <name>Lentera Mobile</name>
 
@@ -43,6 +43,7 @@
     <preference name="load-url-timeout" value="60000" />
 
     <preference name="android-minSdkVersion" value="14" />
+    <preference name="android-targetSdkVersion" value="19" />
     <preference name="android-installLocation" value="auto" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
